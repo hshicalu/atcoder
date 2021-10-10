@@ -1,2 +1,2 @@
 # atcoder
-atcoderで書いたコードを置くrepository
+AtCoderで書いたコードを置くrepository
